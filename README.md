@@ -34,7 +34,7 @@ I’m Mai Ngo, a passionate Data Scientist with a strong foundation in machine l
 - 📂 **Other Tools:**
 [![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
 [![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://www.salesforce.com/)
-[![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://www.salesforce.com/)
+[![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)](https://www.microsoft.com/microsoft-365)
   
 ### 🔎 Key Projects
 - 🏡 Semantic-driven Hybrid Recommender System for Chicago Airbnb Listings – Built a system leveraging **embeddings, sentiment analysis, and proximity to train stations** to enhance Airbnb recommendations.
