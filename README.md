@@ -37,11 +37,11 @@ I’m Mai Ngo, a passionate Data Scientist with a strong foundation in machine l
 [![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)](https://www.microsoft.com/microsoft-365)
   
 ### 🔎 Key Projects
-- 🏡 Semantic-driven Hybrid Recommender System for Chicago Airbnb Listings – Built a system leveraging **embeddings, sentiment analysis, and proximity to train stations** to enhance Airbnb recommendations.
-- 🍽️ Item-based Collaborative Recommender for Yelp Establishments – Developed **collaborative filtering models** to recommend establishments based on shared characteristics.
-- 📈 Financial Data Analysis – Power BI Framework for Underwriting Analytics – Built a **custom reporting and analysis framework** in Power BI to analyze AXA underwriting performance.
-- 📰 Fake News Detection – Designed an **NLP-based misinformation classification model** using **TF-IDF and LSTMs.**
-- 🤖 Building N-gram Language Models & Retrieval Augmented Generation (RAG) – Trained **Mistral 7B & GPT-3.5 Turbo** to evaluate perplexity and retrieval efficiency.
+1️⃣ 🏡 **Semantic-driven Hybrid Recommender System for Chicago Airbnb Listings** – Built a system leveraging **embeddings, sentiment analysis, and proximity to train stations** to enhance Airbnb recommendations. <br />
+2️⃣ 🍽️ **Item-based Collaborative Recommender for Yelp Establishments** – Developed **collaborative filtering models** to recommend establishments based on shared characteristics. <br />
+3️⃣ 📈 **Financial Data Analysis** – Power BI Framework for Underwriting Analytics – Built a **custom reporting and analysis framework** in Power BI to analyze AXA underwriting performance. <br />
+4️⃣ 📰 **Fake News Detection** – Designed an **NLP-based misinformation classification model** using **TF-IDF and LSTMs.** <br />
+5️⃣ 🤖 **Building N-gram Language Models & Retrieval Augmented Generation (RAG)** – Trained **Mistral 7B & GPT-3.5 Turbo** to evaluate perplexity and retrieval efficiency. <br />
   
 ### 🌱 What I’m Working On
 - Business analytics framework and data warehouse.
